@@ -19,6 +19,10 @@ npm run build
 ```
 npm run lint
 ```
+### Extension
+```
+vetur --> to read file code effectively
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
